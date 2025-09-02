@@ -1,2 +1,6 @@
 initial line
 2nd line added
+other line
+line 4
+line 5
+line 6
